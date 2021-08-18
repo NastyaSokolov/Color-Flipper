@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.1.0"
+  },
+  "devDependencies": {
+    "prettier": "2.3.2"
+  }
+  
+}
+
